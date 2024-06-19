@@ -1,0 +1,8 @@
+D:\source\Visual Studio 2022\MulimediaService\obj\Debug\net8.0\MulimediaService.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Visual Studio 2022\MulimediaService\obj\Debug\net8.0\MulimediaService.AssemblyInfoInputs.cache
+D:\source\Visual Studio 2022\MulimediaService\obj\Debug\net8.0\MulimediaService.AssemblyInfo.cs
+D:\source\Visual Studio 2022\MulimediaService\obj\Debug\net8.0\MulimediaService.csproj.CoreCompileInputs.cache
+D:\source\Visual Studio 2022\MulimediaService\obj\Debug\net8.0\MulimediaService.MvcApplicationPartsAssemblyInfo.cache
+D:\source\Visual Studio 2022\MulimediaService\obj\Debug\net8.0\MulimediaService.RazorAssemblyInfo.cache
+D:\source\Visual Studio 2022\MulimediaService\obj\Debug\net8.0\MulimediaService.RazorAssemblyInfo.cs
+D:\source\Visual Studio 2022\MulimediaService\obj\Debug\net8.0\MulimediaService.csproj.AssemblyReference.cache

@@ -1,0 +1,33 @@
+﻿<Window x:Class="LearningCourse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Quản lý lịch học" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel x:Name="AccountOptionsMenu" Grid.Column="0" Background="LightGray" Visibility="Collapsed">
+            <Button Content="Quản lý tài khoản" Click="ManageAccountButton_Click" Margin="10"/>
+            <Button Content="Đăng xuất" Click="logOutButton_Click" Margin="10"/>
+            <Button Content="Đóng" Click="MenuToggleButton_Unchecked" Margin="10"/>
+        </StackPanel>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Orientation="Horizontal" Grid.Row="0">
+                <ToggleButton x:Name="MenuToggleButton" Content="Tùy chọn tài khoản" Checked="MenuToggleButton_Checked" Unchecked="MenuToggleButton_Unchecked" Margin="10"/>
+                <TextBlock Text="{Binding CurrentUser.Username}" Margin="10"/>
+                <TextBlock Text="{Binding CurrentUser.Rolename}" Margin="10"/>
+                <Button x:Name="LoginButton" Content="Đăng nhập" Click="LoginButton_Click" Margin="10"/>
+            </StackPanel>
+            <Button Grid.Row="1" Content="Quay lại" Click="BackButton_Click" Margin="10"/>
+            <Frame x:Name="MainFrame" Grid.Row="2" NavigationUIVisibility="Hidden" />
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\Visual Studio 2022\\LearningCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|d:\\source\\visual studio 2022\\learningcourse\\pages\\identity\\changepassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|solutionrelative:pages\\identity\\changepassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|d:\\source\\visual studio 2022\\learningcourse\\pages\\identity\\changepassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|solutionrelative:pages\\identity\\changepassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|d:\\source\\visual studio 2022\\learningcourse\\pages\\identity\\account.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|solutionrelative:pages\\identity\\account.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|d:\\source\\visual studio 2022\\learningcourse\\pages\\student\\coursemanage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|solutionrelative:pages\\student\\coursemanage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|d:\\source\\visual studio 2022\\learningcourse\\pages\\student\\coursemanage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|solutionrelative:pages\\student\\coursemanage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|d:\\source\\visual studio 2022\\learningcourse\\pages\\student\\course.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|solutionrelative:pages\\student\\course.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|d:\\source\\visual studio 2022\\learningcourse\\pages\\instructor\\course.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3634598A-1444-490B-A281-76F027F63A04}|LearningCourse.csproj|solutionrelative:pages\\instructor\\course.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePassword.xaml.cs",
+              "DocumentMoniker": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Identity\\ChangePassword.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Identity\\ChangePassword.xaml.cs",
+              "ToolTip": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Identity\\ChangePassword.xaml.cs",
+              "RelativeToolTip": "Pages\\Identity\\ChangePassword.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:14:28.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangePassword.xaml",
+              "DocumentMoniker": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Identity\\ChangePassword.xaml",
+              "RelativeDocumentMoniker": "Pages\\Identity\\ChangePassword.xaml",
+              "ToolTip": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Identity\\ChangePassword.xaml",
+              "RelativeToolTip": "Pages\\Identity\\ChangePassword.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T13:13:40.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.xaml.cs",
+              "DocumentMoniker": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Student\\Course.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Student\\Course.xaml.cs",
+              "ToolTip": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Student\\Course.xaml.cs",
+              "RelativeToolTip": "Pages\\Student\\Course.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:07:07.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseManage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Student\\CourseManage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Student\\CourseManage.xaml.cs",
+              "ToolTip": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Student\\CourseManage.xaml.cs",
+              "RelativeToolTip": "Pages\\Student\\CourseManage.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:56:14.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.xaml",
+              "DocumentMoniker": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Instructor\\Course.xaml",
+              "RelativeDocumentMoniker": "Pages\\Instructor\\Course.xaml",
+              "ToolTip": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Instructor\\Course.xaml",
+              "RelativeToolTip": "Pages\\Instructor\\Course.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T13:07:52.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.xaml",
+              "DocumentMoniker": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Identity\\Account.xaml",
+              "RelativeDocumentMoniker": "Pages\\Identity\\Account.xaml",
+              "ToolTip": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Identity\\Account.xaml",
+              "RelativeToolTip": "Pages\\Identity\\Account.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T13:20:22.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseManage.xaml",
+              "DocumentMoniker": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Student\\CourseManage.xaml",
+              "RelativeDocumentMoniker": "Pages\\Student\\CourseManage.xaml",
+              "ToolTip": "D:\\source\\Visual Studio 2022\\LearningCourse\\Pages\\Student\\CourseManage.xaml",
+              "RelativeToolTip": "Pages\\Student\\CourseManage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T12:55:54.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

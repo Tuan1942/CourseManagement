@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Pages\Identity\Account.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Identity\ChangePassword.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Identity\Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Identity\Register.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Instructor\Course.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Instructor\CourseAdd.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Instructor\CourseDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Student\Course.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Student\CourseManage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\IdentityWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Identity\Account.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Identity\ChangePassword.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Identity\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Identity\Register.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Instructor\Course.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Instructor\CourseAdd.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Instructor\CourseDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Student\Course.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Student\CourseManage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\IdentityWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

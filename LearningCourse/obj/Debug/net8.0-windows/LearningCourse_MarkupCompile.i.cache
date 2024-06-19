@@ -1,0 +1,20 @@
+﻿LearningCourse
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\source\Visual Studio 2022\LearningCourse\obj\Debug\net8.0-windows\
+LearningCourse
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\source\Visual Studio 2022\LearningCourse\App.xaml
+11-1097861535
+
+26-474460598
+1991041664207
+MainWindow.xaml;Pages\Identity\Account.xaml;Pages\Identity\ChangePassword.xaml;Pages\Identity\Login.xaml;Pages\Identity\Register.xaml;Pages\Instructor\Course.xaml;Pages\Instructor\CourseAdd.xaml;Pages\Instructor\CourseDetail.xaml;Pages\Student\Course.xaml;Pages\Student\CourseManage.xaml;Windows\IdentityWindow.xaml;
+
+True
+

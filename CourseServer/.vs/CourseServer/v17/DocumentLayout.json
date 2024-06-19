@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|d:\\onedrive\\desktop\\chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\ph\u1EA1m minh tu\u1EA5n - 2055010243\\courseserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|d:\\onedrive\\desktop\\chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\ph\u1EA1m minh tu\u1EA5n - 2055010243\\courseserver\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|solutionrelative:context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|d:\\onedrive\\desktop\\chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\ph\u1EA1m minh tu\u1EA5n - 2055010243\\courseserver\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|d:\\onedrive\\desktop\\chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\ph\u1EA1m minh tu\u1EA5n - 2055010243\\courseserver\\context\\coursecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|solutionrelative:context\\coursecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|d:\\onedrive\\desktop\\chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\ph\u1EA1m minh tu\u1EA5n - 2055010243\\courseserver\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|solutionrelative:models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|d:\\onedrive\\desktop\\chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\ph\u1EA1m minh tu\u1EA5n - 2055010243\\courseserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50109DE6-B73E-44FD-AF66-952917664258}|CourseServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseContext.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Context\\CourseContext.cs",
+              "RelativeDocumentMoniker": "Context\\CourseContext.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Context\\CourseContext.cs",
+              "RelativeToolTip": "Context\\CourseContext.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:01:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Models\\Authentication.cs",
+              "RelativeDocumentMoniker": "Models\\Authentication.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Models\\Authentication.cs",
+              "RelativeToolTip": "Models\\Authentication.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T01:01:00.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Context\\UserContext.cs",
+              "RelativeDocumentMoniker": "Context\\UserContext.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Context\\UserContext.cs",
+              "RelativeToolTip": "Context\\UserContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA3wA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T01:01:13.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAswF4BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:38:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAApwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:18:15.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Chuy\u00EAn \u0111\u1EC1 m\u1EA1ng m\u00E1y t\u00EDnh v\u00E0 h\u1EC7 th\u1ED1ng th\u00F4ng tin\\Ph\u1EA1m Minh Tu\u1EA5n - 2055010243\\CourseServer\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:05:46.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
